@@ -17,4 +17,5 @@
 ![SASS](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white) 
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=devadossantos&&&layout=compact)](https://github.com/devadossantos/github-readme-stats) ![Anisio GitHub stats](https://github-readme-stats.vercel.app/api?username=devadossantos&show_icons=true&theme=dracula)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=devadossantos&&&layout=compact)](https://github.com/devadossantos/github-readme-stats) 
+![Anisio GitHub stats](https://github-readme-stats.vercel.app/api?username=devadossantos&show_icons=true&theme=dracula)
