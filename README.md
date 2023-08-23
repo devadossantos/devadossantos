@@ -17,4 +17,4 @@
 ![SASS](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white) 
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=devadossantos&&&layout=compact)](https://github.com/devadossantos/github-readme-stats) [![Harlok's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ffflabs)](https://github.com/devadossantos/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=devadossantos&&&layout=compact)](https://github.com/devadossantos/github-readme-stats) [![Harlok's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=devadossantos)](https://github.com/devadossantos/github-readme-stats)
